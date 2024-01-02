@@ -9,7 +9,7 @@
       #h1 {
         color:blue;
         font-style:italic;
-        line-height:25pt;
+        line-height:20pt;
         }
       #drei {
         font-size:30px;
