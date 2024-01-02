@@ -6,7 +6,7 @@
       body {
          line-height:15pt;
       }
-      h1 {
+      #h1 {
         color:blue;
         font-style:italic;
         line-height:25pt;
@@ -19,7 +19,7 @@
     </style>
   </head>
   <body>
-    <h1>erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h1>
+    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h1>
 
     <p id="eins"> als naechstes kommen listen dran </p>
     <p class="eins"> ich nehme dafuer einfach mal ein paar spieletitel </p>
