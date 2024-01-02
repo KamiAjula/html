@@ -8,7 +8,7 @@
          text-align:left;
       }
       h1 {
-        font-size:2.5pt;
+        font-size:1.5em;
         text-align:center;
       }
       #h2 {
@@ -18,7 +18,7 @@
         text-align:left;
         }
       #drei {
-        font-size:30px;
+        font-size:1.2em;
         text-decoration:underline;
         }
         
