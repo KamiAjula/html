@@ -32,8 +32,8 @@
     </ul>
     <p class="zwei"> und etz sortiert </p>
     <ol>
-       <li> destiny 2</li>
-       <li> elden ring</li>
+       <li> Elden Ring</li>
+       <li> Destiny 2</li>
        <li> GTA 5</li>
     </ol>
     
