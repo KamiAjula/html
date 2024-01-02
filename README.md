@@ -6,6 +6,9 @@
       body {
          line-height:15pt;
       }
+      h1 {
+        font-size:40px;
+        }
       #h1 {
         color:blue;
         font-style:italic;
