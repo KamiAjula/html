@@ -50,7 +50,9 @@
 
     <br> <br>
 
-    <iframe src="https://giphy.com/embed/vyTnNTrs3wqQ0UIvwE" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-frame-toby-vyTnNTrs3wqQ0UIvwE">via GIPHY</a></p>
+    <p>sooooo wollen wir weiter machen? <br> <br> </p>
+
+    <iframe src="https://giphy.com/embed/vyTnNTrs3wqQ0UIvwE" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
      <br> <br>
 
