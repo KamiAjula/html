@@ -25,8 +25,6 @@
   </head>
   <body>
     <h1>erste lernversuche mit html und css</h1>
-
-    <div class="container"></div>
     
     <h2 id="h2">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h2>
 
