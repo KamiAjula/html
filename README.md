@@ -50,7 +50,11 @@
 
     <br> <br>
 
-    <p> falls das noch nicht genug war noch ein kleines liedchen </p>
+    <iframe src="https://giphy.com/embed/vyTnNTrs3wqQ0UIvwE" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-the-office-tv-frame-toby-vyTnNTrs3wqQ0UIvwE">via GIPHY</a></p>
+
+     <br> <br>
+
+    <p> Ok dann halt noch ein gute laune lied </p>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/0HJXBNaRfW0?si=ZOB_kF1Tz-sSMkJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
