@@ -5,6 +5,7 @@
     <style>
       body {
          line-height:15pt;
+         text-align:left;
       }
       h1 {
         font-size:40px;
