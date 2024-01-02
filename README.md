@@ -6,6 +6,9 @@
       body {
          line-height:15pt;
       }
+      .conainer {
+         background-image:url('https://images.app.goo.gl/GFe8zx9BieQUckr26');
+         backgrond-size:cover;
       h1 {
         text-align:center;
         font-size:70px;
@@ -27,6 +30,9 @@
   </head>
   <body>
     <h1>erste lernversuche mit html und css</h1>
+
+    <div class="container"></div>
+    
     <h2 id="h2">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h2>
 
     <p id="eins"> als naechstes kommen listen dran </p>
