@@ -25,7 +25,7 @@
     </style>
   </head>
   <body>
-    <h1 id="h1">erste lernversuche mit html und css</h1>
+    <h1 class="h1">erste lernversuche mit html und css</h1>
     <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h1>
 
     <p id="eins"> als naechstes kommen listen dran </p>
