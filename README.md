@@ -6,6 +6,8 @@
       body {
          line-height:15pt;
          background-color: #BFFEEB;
+         background-image: url('https://media3.giphy.com/media/CgiESYjEawUOVHkeKf/giphy.gif?cid=ecf05e47dtf0xqswgzri2h95u4rwzm15rlgmu8z82dyn9eie&amp;ep=v1_gifs_search&amp;rid=giphy.gif&amp;ct=g');
+         background-size: cover;
       }
       h1 {
         text-align:center;
