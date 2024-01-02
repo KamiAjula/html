@@ -8,7 +8,7 @@
          text-align:left;
       }
       .h1 {
-        font-size:40px;
+        font-size:70px;
         text-align:center;
         }
       #h1 {
