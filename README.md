@@ -10,7 +10,7 @@
       h1 {
         font-size:2.5pt;
         text-align:center;
-        }
+      }
       #h2 {
         color:blue;
         font-style:italic;
@@ -25,7 +25,7 @@
     </style>
   </head>
   <body>
-    <h1 id="h1">erste lernversuche mit html und css</h1>
+    <h1>erste lernversuche mit html und css</h1>
     <h2 id="h2">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h2>
 
     <p id="eins"> als naechstes kommen listen dran </p>
