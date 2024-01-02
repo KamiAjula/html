@@ -5,6 +5,7 @@
     <style>
       body {
          line-height:15pt;
+         background-color: #A2F4DB;
       }
       h1 {
         text-align:center;
