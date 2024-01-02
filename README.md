@@ -13,6 +13,7 @@
       h1 {
         text-align:center;
         font-size:70px;
+        color:darkblue;
       }
       #h2 {
         color:blue;
