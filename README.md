@@ -7,11 +7,11 @@
          line-height:15pt;
          text-align:left;
       }
-      .h1 {
+      h1 {
         font-size:70px;
         text-align:center;
         }
-      #h1 {
+      #h2 {
         color:blue;
         font-style:italic;
         line-height:20pt;
@@ -25,8 +25,8 @@
     </style>
   </head>
   <body>
-    <h1 class="h1">erste lernversuche mit html und css</h1>
-    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h1>
+    <h1 id="h1">erste lernversuche mit html und css</h1>
+    <h2 id="h2">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h2>
 
     <p id="eins"> als naechstes kommen listen dran </p>
     <p class="eins"> ich nehme dafuer einfach mal ein paar spieletitel </p>
