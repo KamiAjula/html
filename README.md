@@ -25,7 +25,7 @@
     </style>
   </head>
   <body>
-    <h1><font size="3">erste lernversuche mit html und css</font>font></h1>
+    <h1><font size="8"> erste lernversuche mit html und css </font></h1>
     
     <h2 id="h2">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h2>
 
