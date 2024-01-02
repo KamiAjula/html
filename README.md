@@ -7,8 +7,8 @@
          line-height:15pt;
       }
       h1 {
-        font-size:large;
         text-align:center;
+        font-size:70px;
       }
       #h2 {
         color:blue;
