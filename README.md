@@ -5,11 +5,12 @@
     <style>
       body {
          line-height:15pt;
-         background-image: url("https://images.app.goo.gl/GFe8zx9BieQUckr26");
       }
       h1 {
         text-align:center;
         font-size:70px;
+        background-image:url(https://images.app.goo.gl/GFe8zx9BieQUckr26);
+        backgrond-size: 400px 400px;
       }
       #h2 {
         color:blue;
