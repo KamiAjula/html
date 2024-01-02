@@ -15,6 +15,7 @@
         color:blue;
         font-style:italic;
         line-height:20pt;
+        text-align:left;
         }
       #drei {
         font-size:30px;
