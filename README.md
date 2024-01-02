@@ -8,7 +8,7 @@
          text-align:left;
       }
       h1 {
-        font-size:1.5em;
+        font-size:large;
         text-align:center;
       }
       #h2 {
