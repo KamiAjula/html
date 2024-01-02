@@ -17,7 +17,7 @@
         text-align:left;
         }
       #drei {
-        font-size:1.2em;
+        font-size:30px;
         text-decoration:underline;
         }
         
