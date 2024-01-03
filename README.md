@@ -66,7 +66,7 @@
 
     <br> <br>
 
-    <p> so weiter gehts mit dem sinnlosen muell <br> es soll ja langweilig bleiben </p>
+    <p> so weiter gehts mit dem sinnlosen muell <br> es soll ja <strong>langweilig</strong> bleiben </p>
 
     
     
