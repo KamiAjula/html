@@ -7,7 +7,7 @@
          line-height:15pt;
          background-color: #BFFEEB;
          background-image: url('https://i.ibb.co/QXtfCb7/Banner.png');
-         background-size: 100px 200px;
+         background-size: 300px 100px;
          background-repeat:no-repeat;
          background-position:top;
       }
