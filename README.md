@@ -6,9 +6,8 @@
       body {
          line-height:15pt;
          background-color: #BFFEEB;
-         background-image: url('https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3czbGVoMGViNDVrMmY1ZWVmcGRobTlvZ3R2ZnhoeTlhZHdkeXpnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AWyNi4VsWIKT6vUemg/giphy.gif');
-         background-size: 100%;
-         color:white;
+         background-image: url('https://media.smwcentral.net/Tutorials/wyelmrip/lunar_magic_result.png');
+         background-size: 50%;
       }
       h1 {
         text-align:center;
