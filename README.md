@@ -93,6 +93,8 @@
             <td>Rockstar North</td>
         </tr>
     </table>
+
+    <p><a href="#top">zum anfang</a></p>
     
   </body>
 </html>
