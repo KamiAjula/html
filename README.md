@@ -6,7 +6,7 @@
       body {
          line-height:15pt;
          background-color: #BFFEEB;
-         background-image: url('[https://media.smwcentral.net/Tutorials/wyelmrip/lunar_magic_result.png](https://i.ibb.co/QXtfCb7/Banner.png)');
+         background-image: url('https://i.ibb.co/QXtfCb7/Banner.png');
          background-size: 50%;
          background-repeat:no-repeat;
          background-position:top;
