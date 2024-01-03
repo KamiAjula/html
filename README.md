@@ -67,7 +67,32 @@
 
     <p> so weiter gehts mit dem sinnlosen muell <br> es soll ja <strong>langweilig</strong> bleiben </p>
 
-    
+    <table>
+    	<tr>
+        	<th>Spielname</th>
+        	<th>Genre</th>
+        	<th>release</th>
+        	<th>entwickler</th>
+        </tr>
+        <tr>
+        	<td>Elden Ring</td>
+            <td>Action-Rollenspiel</td>
+            <td>25.02.2022</td>
+            <td>FromSoftware</td>
+        </tr>
+        <tr>
+        	<td>Destiny 2</td>
+            <td>MMO-Shooter</td>
+            <td>28.08.2017</td>
+            <td>Bungie</td>
+        </tr>
+        <tr>
+        	<td>GTA V</td>
+            <td>Open-World, Action</td>
+            <td>17.09.2013</td>
+            <td>Rockstar North</td>
+        </tr>
+    </table>
     
   </body>
 </html>
