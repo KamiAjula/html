@@ -19,7 +19,7 @@
       #h1 {
         color:blue;
         font-style:italic;
-        line-height:20pt;
+        line-height:40pt;
         text-align:left;
         }
       #drei {
@@ -27,17 +27,14 @@
         text-decoration:underline;
         color:blue;
         }
-        
     </style>
   </head>
   <body>
     <h1><font size="8"> erste lernversuche mit html und css </font></h1>
     
-    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h1>
+    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann <br><br><br> </h1>
 
-    <p id="eins"> als naechstes kommen listen dran </p>
-    <p class="eins"> ich nehme dafuer einfach mal ein paar spieletitel </p>
-    <p id="zwei"> erstmal unsortiert </p>
+    <p id="eins"> als naechstes kommen listen dran<br> ich nehme dafuer einfach mal ein paar spieletitel<br> erstmal unsortiert </p>
     <p id="drei"> Spiele </p>
     <ul>
        <li id="destiny"><a href="https://de.m.wikipedia.org/wiki/Destiny_2"> destiny </a></li>
