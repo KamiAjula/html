@@ -33,7 +33,7 @@
   <body>
     <h1><font size="8"> erste lernversuche mit html und css </font></h1>
     
-    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h2>
+    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann </h1>
 
     <p id="eins"> als naechstes kommen listen dran </p>
     <p class="eins"> ich nehme dafuer einfach mal ein paar spieletitel </p>
