@@ -10,8 +10,6 @@
          background-size: 50%;
          background-repeat:no-repeat;
          background-position:top;
-         width:300px;
-         lenght:500px;
       }
       h1 {
         text-align:center;
