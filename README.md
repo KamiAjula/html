@@ -7,7 +7,7 @@
          line-height:15pt;
          background-color: #BFFEEB;
          background-image: url('https://i.ibb.co/QXtfCb7/Banner.png');
-         background-size: 100%;
+         background-size: 50%;
          background-repeat:no-repeat;
          background-position:top;
       }
@@ -22,7 +22,7 @@
         line-height:40pt;
         text-align:left;
         }
-      #drei {
+      #zwei {
         font-size:30px;
         text-decoration:underline;
         color:blue;
@@ -32,16 +32,16 @@
   <body>
     <h1><font size="8"> erste lernversuche mit html und css </font></h1>
     
-    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann <br><br><br> </h1>
+    <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann <br> </h1>
 
-    <p id="eins"> als naechstes kommen listen dran<br> ich nehme dafuer einfach mal ein paar spieletitel<br> erstmal unsortiert </p>
-    <p id="drei"> Spiele </p>
+    <p id="eins"> als naechstes kommen <strong>listen</strong> dran<br><br> ich nehme dafuer einfach mal ein paar spieletitel<br><br> erstmal unsortiert </p>
+    <p id="zwei"> Spiele </p>
     <ul>
        <li id="destiny"><a href="https://de.m.wikipedia.org/wiki/Destiny_2"> destiny </a></li>
        <li id="elden_ring"> elden ring </li>
        <li id="gta5"> GTA 5 </li>
     </ul>
-    <p class="zwei"> und etz sortiert </p>
+    <p class="eins"> und etz sortiert </p>
     <ol>
        <li> Elden Ring</li>
        <li> Destiny 2</li>
