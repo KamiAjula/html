@@ -43,9 +43,9 @@
     </ul>
     <p class="eins"> und etz sortiert </p>
     <ol>
-       <li> Elden Ring</li>
-       <li> Destiny 2</li>
-       <li> GTA 5</li>
+       <li><a href="#table"> Elden Ring</a> </li>
+       <li><a href="#table"> Destiny 2</a> </li>
+       <li><a href="#table"> GTA 5</a> </li>
     </ol>
     <p> jetzt erst einmal was schoenes zum sehen und hoeren</p>
 
