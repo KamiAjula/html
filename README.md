@@ -16,7 +16,7 @@
         font-size:70px;
         color:darkblue;
       }
-      #h2 {
+      #h1 {
         color:blue;
         font-style:italic;
         line-height:20pt;
