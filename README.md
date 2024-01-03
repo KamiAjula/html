@@ -67,7 +67,7 @@
 
     <p> so weiter gehts mit dem sinnlosen muell <br> es soll ja <strong>langweilig</strong> bleiben </p>
 
-    <table>
+    <table id="table">
     	<tr>
         	<th>Spielname</th>
         	<th>Genre</th>
