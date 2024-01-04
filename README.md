@@ -36,7 +36,9 @@
         }
       #d2 {
         Background: rgb(102, 178,255);
-        width:80%;
+        width:60%;
+	height:200px;
+	overflow:auto;
         }
     </style>
   </head>
