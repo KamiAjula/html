@@ -6,7 +6,7 @@
       body {
          line-height:15pt;
          background-color: #247900;
-         background-image: url('https://i.ibb.co/QXtfCb7/Banner.png');
+         background-image: url('https://i.ibb.co/PCCGdkP/Banner.png');
          background-size: 40%;
          background-repeat:no-repeat;
          background-position:top;
