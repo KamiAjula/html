@@ -66,7 +66,7 @@
        <li><a href="#table"> Destiny 2</a> </li>
        <li><a href="#table"> GTA 5</a> </li>
     </ol>
-    <p><span class="s1> jetzt erst einmal was schoenes zum sehen und hoeren</span></p>
+    <p><span class="s1"> jetzt erst einmal was schoenes zum sehen und hoeren</span></p>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/VIwC9_VCZCY?si=V5ij0RW41UXHFuwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
