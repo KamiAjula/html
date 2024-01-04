@@ -33,6 +33,8 @@
       #d1 {
         background: rgb(102, 178,255);
         width: 730px;
+	margin:10px;
+        border:2px solid rgb(255, 0, 0);
         }
       #d2 {
         Background: rgb(102, 178,255);
@@ -40,6 +42,10 @@
 	height:200px;
 	overflow:auto;
         }
+      .eldenring {
+	margin:25px 0px 25px 250px;
+        font-size:50px;
+        }      
     </style>
   </head>
   <body>
@@ -107,7 +113,7 @@
         </tr>
     </table>
 
-    <p>Elden ring</p>
+    <p class="eldenring"><strong>Elden ring</strong></p>
     
     <div id="d1"><p>Elden Ring ist ein 2022 veröffentlichtes Open-World-Action-Rollenspiel des japanischen Studios FromSoftware.<br>
 Das Computerspiel entstand aus dem Wunsch des leitenden Entwicklers Hidetaka Miyazaki, mit dem durch die<br> Fantasy-Saga Das Lied von Eis und Feuer bekannt gewordenen George R. R. Martin ein Videospiel zu entwerfen,<br> bei dem der Schriftsteller für die Hintergrundgeschichte und Mythologie verantwortlich zeichnet.[2]<br> Der Titel wurde überaus positiv von der Computerspielpresse aufgenommen und verkaufte sich innerhalb eines<br> Jahres über 20 Millionen Mal.</p></div>
