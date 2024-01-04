@@ -5,7 +5,7 @@
     <style>
       body {
          line-height:15pt;
-         background-color: #BFFEEB;
+         background-color: #247900;
          background-image: url('https://i.ibb.co/QXtfCb7/Banner.png');
          background-size: 40%;
          background-repeat:no-repeat;
@@ -27,6 +27,17 @@
         text-decoration:underline;
         color:blue;
         }
+      .s1 {
+        color: rgb(102, 178,255);
+        }
+      #d1 {
+        background: rgb(102, 178,255);
+        width: 730px;
+        }
+      #d2 {
+        Background: rgb(102, 178,255);
+        width:80%;
+        }
     </style>
   </head>
   <body>
@@ -47,7 +58,7 @@
        <li><a href="#table"> Destiny 2</a> </li>
        <li><a href="#table"> GTA 5</a> </li>
     </ol>
-    <p> jetzt erst einmal was schoenes zum sehen und hoeren</p>
+    <p><span class="s1> jetzt erst einmal was schoenes zum sehen und hoeren</span></p>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/VIwC9_VCZCY?si=V5ij0RW41UXHFuwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -93,6 +104,19 @@
             <td>Rockstar North</td>
         </tr>
     </table>
+
+    <p>Elden ring</p>
+    
+    <div id="d1"><p>Elden Ring ist ein 2022 veröffentlichtes Open-World-Action-Rollenspiel des japanischen Studios FromSoftware.<br>
+Das Computerspiel entstand aus dem Wunsch des leitenden Entwicklers Hidetaka Miyazaki, mit dem durch die<br> Fantasy-Saga Das Lied von Eis und Feuer bekannt gewordenen George R. R. Martin ein Videospiel zu entwerfen,<br> bei dem der Schriftsteller für die Hintergrundgeschichte und Mythologie verantwortlich zeichnet.[2]<br> Der Titel wurde überaus positiv von der Computerspielpresse aufgenommen und verkaufte sich innerhalb eines<br> Jahres über 20 Millionen Mal.</p></div>
+
+	<p>Destiny 2</p>
+    
+    <div id="d2"><p>Destiny 2 ist ein Mehrspieler-Computerspiel, entwickelt von Bungie und veröffentlicht von Activision. Bungie und Activision wurden im Jahre 2019 unabhängig voneinander. Der Ego-Shooter ist ein reines Onlinespiel und wurde für die PlayStation 4 und die Xbox One am 6. September 2017 veröffentlicht. Die Version für Microsoft Windows wurde am 24. Oktober 2017 veröffentlicht.[2][3] Außerdem erschien das Spiel für Google Stadia,[4][5] Xbox Series X und S sowie die PlayStation 5.[6] Destiny 2 ist der Nachfolger des 2014 erschienenen Destiny.<br>
+
+Die Spielewelt ist eingebettet in ein Science-Fiction-Szenario. Jeder Spieler schlüpft in die Rolle eines sogenannten Hüters, Beschützer der letzten verbliebenen sicheren Stadt auf der Erde. Die Hüter nutzen eine als „Licht“ bezeichnete Macht, um die Stadt vor verschiedenen außerirdischen Rassen zu verteidigen. Eine dieser Rassen, die sogenannten Kabale und angeführt von „Dominus Ghaul“, greifen zu Beginn des Spiels die Stadt an und berauben die Hüter ihrer Macht. Der Spieler startet mit der Reise, diese Macht zurückzugewinnen und Ghaul samt seiner „Rotlegion“ zu besiegen und die letzte Stadt zurückzuerobern.<br>
+
+Wie schon im ersten Teil des Spiels sind die Handlungen von Destiny 2 in Spieler-gegen-Spieler- (PvP) und Spieler-gegen-Umgebung-Aktivitäten (PvE) aufgeteilt. Zusätzlich zu den klassischen Story-Missionen, in denen die Handlung des Spiels verfolgt wird, enthält Destiny 2 im PvE-Modus sogenannte „Strikes“ für Gruppen aus drei Spielern und „Raids“ für sechs Spieler. Hierbei werden willkürlich gewählte Story-Missionen in verschiedenen Schwierigkeits-Graden gespielt. Weiterhin gibt es auf den verschiedenen Planeten unterschiedliche Events und Aktivitäten mit Nicht-Spieler-Charakteren (NPC). Sogenannte Kompetitiv-Modi, die dem PvP-Prinzip nachempfunden sind, enthalten sowohl zielbasierte Typen als auch klassisches Deathmatch.</p></div>
 
     <p><a href="#top">zum anfang</a></p>
     
