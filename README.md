@@ -6,7 +6,7 @@
       body {
          line-height:15pt;
          background-color: #D1FFFD;
-	     margin:15px 20px 15px 20px;
+	 margin:15px 20px 15px 20px;
       }
       h1 {
         text-align:center;
@@ -53,6 +53,7 @@
         z-index:1;
         } 
       #megaman {
+	background-color: rgba(255,255,255,0);
         position:absolute;
         top:150px;
         right:30px;
