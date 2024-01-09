@@ -61,6 +61,13 @@
         right:100px;
         z-index:1;
         }
+      #cayde6 {
+	background-color: rgba(255,255,255,0);
+        position:absolute;
+        top:500px;
+        right:100px;
+        z-index:1;
+        }      
     </style>
   </head>
   <body>
@@ -68,12 +75,14 @@
     
     <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann <br> </h1>
 
-	<image id="artorias" src="https://i.ibb.co/hfvj6ng/Artorias-1.png" width="300" height="300"></image>
-        
+     <image id="artorias" src="https://i.ibb.co/hfvj6ng/Artorias-1.png" width="300" height="300"></image>
+     
+     <image id="megaman" src="https://i.ibb.co/T0TBfbZ/Megaman-1.png" width="300" height="300"></image>
+
+     <image id="cayde6" src="https://i.ibb.co/d525JQD/cayde-6-1.png"></image>
+    
     <p id="eins"> als naechstes kommen <strong>listen</strong> dran<br><br> ich nehme dafuer einfach mal ein paar spieletitel<br><br> erstmal unsortiert </p>
-    
-    <image id="megaman" src="https://i.ibb.co/T0TBfbZ/Megaman-1.png" width="300" height="300"></image>
-    
+     
     <p id="zwei"> Spiele </p>
     <ul>
        <li id="destiny"><a href="https://de.m.wikipedia.org/wiki/Destiny_2"> destiny </a></li>
