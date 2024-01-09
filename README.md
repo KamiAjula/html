@@ -55,7 +55,7 @@
       #megaman {
 	background-color: rgba(255,255,255,0);
         position:absolute;
-        top:300px;
+        top:500px;
         right:30px;
         z-index:1;
         }
