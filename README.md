@@ -46,6 +46,7 @@
         font-size:50px;
         }
       #artorias {
+	background-color: rgba(255,255,255,0);      
       	position:absolute;
         top:20px;
         left:200px;
