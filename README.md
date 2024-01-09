@@ -49,14 +49,14 @@
 	background-color: rgba(255,255,255,0);      
       	position:absolute;
         top:20px;
-        left:200px;
+        left:400px;
         z-index:1;
         } 
       #megaman {
 	background-color: rgba(255,255,255,0);
         position:absolute;
         top:500px;
-        right:30px;
+        right:100px;
         z-index:1;
         }
     </style>
