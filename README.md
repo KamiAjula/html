@@ -61,7 +61,7 @@
         right:100px;
         z-index:1;
         }
-      #cayde6 {
+      #link {
 	background-color: rgba(255,255,255,0);
         position:absolute;
         top:500px;
@@ -79,7 +79,7 @@
      
      <image id="megaman" src="https://i.ibb.co/T0TBfbZ/Megaman-1.png" width="300" height="300"></image>
 
-     <image id="cayde6" src="https://i.ibb.co/d525JQD/cayde-6-1.png"></image>
+     <image id="link" src="https://i.ibb.co/rpXqRpS/link-1.png"></image>
     
     <p id="eins"> als naechstes kommen <strong>listen</strong> dran<br><br> ich nehme dafuer einfach mal ein paar spieletitel<br><br> erstmal unsortiert </p>
      
