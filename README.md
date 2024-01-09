@@ -12,6 +12,8 @@
         text-align:center;
         font-size:70px;
         color:darkblue;
+	position:relative;
+        z-index:2;
       }
       #h1 {
         color:blue;
