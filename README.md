@@ -5,12 +5,8 @@
     <style>
       body {
          line-height:15pt;
-         background-color: #247900;
-         background-image: url('https://i.ibb.co/PCCGdkP/Banner.png');
-         background-size: 40%;
-         background-repeat:no-repeat;
-         background-position:top;
-	 margin:15px 20px 15px 20px;
+         background-color: #D1FFFD;
+	     margin:15px 20px 15px 20px;
       }
       h1 {
         text-align:center;
@@ -22,6 +18,8 @@
         font-style:italic;
         line-height:40pt;
         text-align:left;
+        position:relative;
+        z-index:2;
         }
       #zwei {
         font-size:30px;
@@ -46,7 +44,19 @@
       .eldenring {
 	margin:25px 0px 25px 250px;
         font-size:50px;
-        }      
+        }
+      #artorias {
+      	position:absolute;
+        top:20px;
+        left:200px;
+        z-index:1;
+        } 
+      #megaman {
+        position:absolute;
+        top:150px;
+        right:30px;
+        z-index:1;
+        }
     </style>
   </head>
   <body>
@@ -54,7 +64,12 @@
     
     <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann <br> </h1>
 
+	<image id="artorias" src="https://i.ibb.co/hfvj6ng/Artorias-1.png" width="300" height="300"></image>
+        
     <p id="eins"> als naechstes kommen <strong>listen</strong> dran<br><br> ich nehme dafuer einfach mal ein paar spieletitel<br><br> erstmal unsortiert </p>
+    
+    <image id="megaman" src="https://i.ibb.co/T0TBfbZ/Megaman-1.png" width="300" height="300"></image>
+    
     <p id="zwei"> Spiele </p>
     <ul>
        <li id="destiny"><a href="https://de.m.wikipedia.org/wiki/Destiny_2"> destiny </a></li>
