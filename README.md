@@ -103,7 +103,7 @@
 
     <p>sooooo wollen wir weiter machen? <br> <br> </p>
 
-    <iframe src="https://giphy.com/embed/vyTnNTrs3wqQ0UIvwE" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <iframe src="https://giphy.com/embed/vyTnNTrs3wqQ0UIvwE" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
      <br> <br>
 
