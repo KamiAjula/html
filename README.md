@@ -50,7 +50,7 @@
       #artorias {
 	background-color: rgba(255,255,255,0);      
       	position:absolute;
-        top:100px;
+        top:150px;
         left:400px;
         z-index:1;
         } 
