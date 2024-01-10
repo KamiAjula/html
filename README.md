@@ -79,7 +79,7 @@
      
      <image id="megaman" src="https://i.ibb.co/T0TBfbZ/Megaman-1.png" width="300" height="300"></image>
 
-     <image id="link" src="https://i.ibb.co/rpXqRpS/link-1.png"></image>
+     <image id="link" src="https://i.ibb.co/rpXqRpS/link-1.png" width="300" height="300"></image>
     
     <p id="eins"> als naechstes kommen <strong>listen</strong> dran<br><br> ich nehme dafuer einfach mal ein paar spieletitel<br><br> erstmal unsortiert </p>
      
