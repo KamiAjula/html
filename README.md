@@ -65,7 +65,7 @@
 	background-color: rgba(255,255,255,0);
         position:absolute;
         top:1000px;
-        right:20px;
+        right:80px;
         z-index:1;
         }      
     </style>
@@ -75,7 +75,7 @@
     
     <h1 id="h1">erst mal einen text schreiben <br> den man dann bissl bearbeiten kann <br> </h1>
 
-     <image id="artorias" src="https://i.ibb.co/hfvj6ng/Artorias-1.png" width="300" height="300"></image>
+     <image id="artorias" src="https://i.ibb.co/hfvj6ng/Artorias-1.png" width="150" height="150"></image>
      
      <image id="megaman" src="https://i.ibb.co/T0TBfbZ/Megaman-1.png" width="300" height="300"></image>
 
