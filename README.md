@@ -101,11 +101,11 @@
 
     <br> <br>
 
-    <p>sooooo wollen wir weiter machen? <br> <br> </p>
+    <p>sooooo wollen wir weiter machen? <br> </p>
 
-    <iframe src="https://giphy.com/embed/vyTnNTrs3wqQ0UIvwE" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <iframe src="https://giphy.com/embed/vyTnNTrs3wqQ0UIvwE" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-     <br> <br>
+     <br> 
 
     <p> Ok dann halt noch ein gute laune lied </p>
 
