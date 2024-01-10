@@ -6,7 +6,7 @@
       body {
          line-height:15pt;
          background-color: #D1FFFD;
-	 margin:15px 20px 15px 20px;
+	 margin:10px 10px 10px 10px;
       }
       h1 {
         text-align:center;
